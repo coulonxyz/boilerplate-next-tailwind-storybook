@@ -1,0 +1,13 @@
+node_modules
+lib
+output
+coverage
+
+dist
+build
+.idea
+commitlint.config.js
+tailwind.config.js
+postcss.config.js
+.eslintrc.js
+src/react-app-env.d.ts
